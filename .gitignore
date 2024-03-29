@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled JavaScript
+*.js
+
+# Compiled CSS
+*.css
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Build output directories
+dist/
+out/
+.next/
+.nuxt/
+.vuepress/dist/
+.docusaurus/
+.cache/
+public/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Package manager lock files
+yarn.lock
+package-lock.json
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
